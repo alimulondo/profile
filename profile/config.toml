@@ -28,9 +28,9 @@ theme = "aafu"
 
     # Profile section
     [params.profile]
-        name = "First Last, Abbr."
-        tagline = "Title"
-        location = "City Name, ST"
+        name = "Ali Mulondo"
+        tagline = "Software Developer"
+        location = "Kampala, Uganda"
         photo = "profile.jpg"
 
     # Section for links to social websites
@@ -39,7 +39,7 @@ theme = "aafu"
 
         [[params.social.list]]
             icon = "fab fa-linkedin-in"
-            url = "#"
+            url = "https://www.linkedin.com/in/alimulondo/"
             title = "LinkedIn"
         [[params.social.list]]
             icon = "fab fa-stack-overflow"
@@ -47,24 +47,15 @@ theme = "aafu"
             title = "StackOverflow"
         [[params.social.list]]
             icon = "fab fa-github"
-            url = "#"
+            url = "https://github.com/alimulondo"
             title = "GitHub"
         [[params.social.list]]
             icon = "fab fa-twitter"
-            url = "#"
+            url = "https://twitter.com/ali_mulondo"
             title = "Twitter"
-        [[params.social.list]]
-            icon = "fab fa-orcid"
-            url = "#"
-            title = "Orcid"
-        [[params.social.list]]
-            icon = "ai ai-google-scholar"
-            url = "#"
-            title = "Google Scholar"
-        [[params.social.list]]
-            icon = "fab fa-researchgate"
-            url = "#"
-            title = "ResearchGate"
+
+
+
 
     #Specify what is showin in the Accordion
     [[params.showInAccordion]]
@@ -86,7 +77,8 @@ theme = "aafu"
     [params.aboutme]
         title = "About Me"
         icon = "fas fa-user"
-        description = "This is a demo of the `aafu` theme. It has `light`, `dark`, `ocean`, and `pinkish` themes."
+        description =  "I have been programming for the last five years, solving enterprise grade problems. I have worked collaboratively with diverse teams to creatively innovate some of the award-winning applications in the industry. I am very good at translating basic user requirements into proper application designs. My core competence is the ability to identify improvement opportunities within existing systems.I have mastered computer science fundamentals such as data structures and algorithms, object-oriented programming, and distributed systems architecture."
+
 
     # Experience section
     [params.experience]
